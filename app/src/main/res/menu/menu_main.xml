@@ -1,0 +1,21 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context="com.rfmr.ramyfradwan.kikoko.MainActivity">
+    <!--<item android:id="@+id/action_settings"-->
+        <!--android:title="Preferences"-->
+        <!--/>-->
+
+    <item android:id="@+id/sort_popular"
+        android:title="@string/sort_popular"
+        android:orderInCategory="100"
+        app:showAsAction="collapseActionView" />
+    <item android:id="@+id/sort_hiRate"
+        android:title="@string/sort_hiRate"
+        android:orderInCategory="99"
+        app:showAsAction="collapseActionView"/>
+    <item android:id="@+id/favs"
+          android:title="@string/favs"
+          android:orderInCategory="98"
+        app:showAsAction="collapseActionView"
+        />
+</menu>

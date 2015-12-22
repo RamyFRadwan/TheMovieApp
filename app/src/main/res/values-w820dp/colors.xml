@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="detail_movie_header">#8ccebe</color>
+    <color name="detail_text">#5b5151</color>
+    <color name="primary">#8ec6ac</color>
+    <color name="primary_dark">#6eac98</color>
+    <color name="accent">#ebd94797</color>
+    <color name="light_gray">#d3d3d3</color>
+    <color name="photo_tint">#7f101010</color>
+    <color name="transparent">#80000000</color>
+</resources>
